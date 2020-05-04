@@ -1,0 +1,21 @@
+$text: #1c1c1c;
+$red: #c91111;
+$green: #26b83a;
+
+
+
+
+@mixin f700 {
+    font-family: 'Proxima Nova Rg';
+    font-weight: 700;
+}
+
+@mixin f800 {
+    font-family: 'Proxima Nova Th';
+    font-weight: 800;
+}
+
+@mixin f300 {
+    font-family: 'Proxima Nova Lt';
+    font-weight: 300;
+}
