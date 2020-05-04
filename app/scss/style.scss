@@ -235,7 +235,46 @@
     }
 }
 
-
 // end about
+
+// start process
+
+.process {
+    background-color: #f5f5f5;
+    padding: 90px 0;
+    text-align: center;
+
+    &__title {
+        @include f700;
+        font-size: 30px;
+        line-height: 34px;
+        margin-bottom: 90px;
+    }
+
+    &__inner {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    &__item {
+        max-width: 270px;
+        flex-basis: 33.333%;
+
+        &-images {
+            height: 100px;
+            margin-bottom: 40px;
+        }
+
+        &-text {
+
+            &.special {
+                @include f700;
+            }
+        }
+    }
+}
+
+
+// end process
 
 @import 'media';
