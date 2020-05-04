@@ -483,6 +483,102 @@
 
 // end consultation
 
+// start reviews
+
+.reviews {
+    padding: 90px 0 75px;
+    background-color: #f5f5f5;
+
+    &__title {
+        font-family: 'Muller';
+        font-weight: 700;
+        text-align: center;
+        color: #313131;
+        font-size: 30px;
+        line-height: 34px;
+        margin-bottom: 70px;
+    }
+}
+
+.reviews-content__tabs {
+
+    .tabs {
+        text-align: center;
+        margin-bottom: 65px;
+
+        .tab {
+            font-family: 'Muller';
+            font-weight: 500;
+            font-size: 14px;
+            color: #313131;
+            cursor: pointer;
+            padding: 5px 10px;
+            border: 2px solid transparent;
+            border-radius: 4px;
+
+            &:hover {
+                color: #e50000;
+            }
+
+            & + .tab {
+                margin-left: 10px;
+            }
+
+            &.active {
+                color: #e50000;
+                border-color: #e50000;
+            }
+        }
+    }
+
+    .tab_content {
+
+        .tab-item {
+            display: none;
+
+            &.active-tab {
+                display: block;
+            }
+        }
+    }
+}
+
+.reviews__slider-inner {
+    position: relative;
+
+    .slick-arrow {
+        background-color: transparent;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        position: absolute;
+        top: 40%;
+        transform: translateY(-50%);
+
+        &.slick-prev {
+            left: -90px;
+        }
+
+        &.slick-next {
+            right: -90px;
+        }
+
+        img {
+            width: 20px;
+            height: 14px;
+        }
+    }
+
+    .reviews__item-text {
+        font-family: 'Muller';
+        font-weight: 300;
+        font-size: 13px;
+        color: #313131;
+        margin-top: 10px;
+    }
+}
+
+// end reviews
 
 
 
