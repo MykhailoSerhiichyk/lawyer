@@ -94,6 +94,7 @@
 // start main
 
 .main {
+    background-image: url(../images/content/main-bg.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -140,11 +141,43 @@
     }
 }
 
-  
-
-
 // end main
 
+// start services
+
+.services {
+    padding-top: 90px;
+
+    &__title {
+        @include f700;
+        font-size: 30px;
+        line-height: 34px;
+        margin-bottom: 70px;
+        text-align: center;
+    }
+
+    &__inner {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+
+    &__item {
+        display: flex;
+        align-items: center;
+        flex-basis: 33.333%;
+        margin-bottom: 90px;
+
+        &-text {
+            max-width: 150px;
+            margin-left: 20px;
+        }
+    }
+}
+
+
+
+// end services
   
 
 @import 'media';
