@@ -13,6 +13,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    position: relative;
 }
 
 .header__top-phone {
@@ -39,6 +40,20 @@
             & + li {
                 margin-left: 32px;
             }
+        }
+    }
+}
+
+.header__menu-btn {
+    display: none;
+
+    .header__menu-line {
+        width: 34px;
+        height: 4px;
+        background-color: #000;
+
+        & + .header__menu-line {
+            margin-top: 4px;
         }
     }
 }
@@ -135,7 +150,9 @@
         line-height: 26px;
         @include f700;
         color: #ffffff;
-        padding: 20px 45px;
+        padding: 20px;
+        max-width: 300px;
+        width: 100%;
         border-radius: 5px;
         background-image: linear-gradient( 90deg, rgb(193,11,11) 0%, rgb(228,38,38) 100%);
     }
@@ -397,7 +414,8 @@
             line-height: 40px;
             color: #ffffff;
             padding: 12px;
-            width: 300px;
+            max-width: 300px;
+            width: 100%;
             text-align: center;
         }
     }
@@ -449,6 +467,8 @@
                 position: absolute;
                 content: "1.";
                 left: 0;
+                top: 50%;
+                transform: translateY(-50%);
                 font-family: 'Muller';
                 font-weight: 500;
                 color: #e41e1e;
@@ -500,49 +520,6 @@
     }
 }
 
-.reviews-content__tabs {
-
-    .tabs {
-        text-align: center;
-        margin-bottom: 65px;
-
-        .tab {
-            font-family: 'Muller';
-            font-weight: 500;
-            font-size: 14px;
-            color: #313131;
-            cursor: pointer;
-            padding: 5px 10px;
-            border: 2px solid transparent;
-            border-radius: 4px;
-
-            &:hover {
-                color: #e50000;
-            }
-
-            & + .tab {
-                margin-left: 10px;
-            }
-
-            &.active {
-                color: #e50000;
-                border-color: #e50000;
-            }
-        }
-    }
-
-    .tab_content {
-
-        .tab-item {
-            display: none;
-
-            &.active-tab {
-                display: block;
-            }
-        }
-    }
-}
-
 .reviews__slider-inner,
 .partners__slider-inner {
     position: relative;
@@ -576,6 +553,14 @@
         font-size: 13px;
         color: #313131;
         margin-top: 10px;
+    }
+}
+
+.reviews__item {
+
+    iframe {
+        width: 95%;
+        min-height: 210px;
     }
 }
 

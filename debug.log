@@ -1,0 +1,306 @@
+[0505/193707.736:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5da307a0 of 72 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193708.526:WARNING:pe_image_annotations_reader.cc(134)] could not read annotations list object in C:\Program Files (x86)\Google\Chrome\Application\78.0.3904.87\chrome_elf.dll
+[0505/193708.526:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbd0640000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193708.526:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0505/193708.526:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdf790000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193708.927:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0505/193708.927:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbddc40000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193708.927:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0505/193708.927:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdf110000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193708.927:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0505/193708.927:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbde300000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193708.927:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0505/193708.927:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbde160000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193708.927:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0505/193708.927:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb9a990000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193708.927:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\78.0.3904.87\chrome_child.dll
+[0505/193708.927:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdf4f0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193708.927:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0505/193708.927:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdce90000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193708.927:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0505/193708.927:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbddb40000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193708.928:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0505/193708.928:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdf8a0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193708.928:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0505/193708.928:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdf460000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193708.928:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0505/193708.928:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdda70000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.038:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0505/193709.038:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdcdf0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.038:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0505/193709.038:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdde60000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.038:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0505/193709.038:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdc340000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.038:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0505/193709.038:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdad30000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.038:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0505/193709.038:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdcce0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.038:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0505/193709.038:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdce10000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.038:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0505/193709.038:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcfca0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.038:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0505/193709.038:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbb65f0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.038:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0505/193709.038:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdcdd0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.038:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0505/193709.038:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdda40000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.038:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcrypt.dll
+[0505/193709.038:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffba9ca0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.038:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0505/193709.038:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc4c40000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.038:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0505/193709.038:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbd2c10000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.038:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0505/193709.038:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbd3340000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.038:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0505/193709.038:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d6a0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.038:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0505/193709.038:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdad00000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.038:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0505/193709.038:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbddad0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.038:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0505/193709.038:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbd9780000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdfe10000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdccb0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdc800000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff782ec0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdff00000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\ntdll.dll
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdf250000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNEL32.DLL
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdcf30000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\KERNELBASE.dll
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbb8430000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\78.0.3904.87\chrome_elf.dll
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbd0640000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\VERSION.dll
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdf790000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcrt.dll
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbddc40000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcryptPrimitives.dll
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdf110000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ADVAPI32.dll
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbde300000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\sechost.dll
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbde160000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\RPCRT4.dll
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb9a990000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\78.0.3904.87\chrome_child.dll
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdf4f0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\OLEAUT32.dll
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdce90000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\msvcp_win.dll
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbddb40000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\ucrtbase.dll
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdf8a0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\combase.dll
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdf460000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WS2_32.dll
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdda70000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\WINTRUST.dll
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdcdf0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.039:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\MSASN1.dll
+[0505/193709.039:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdde60000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.053:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\CRYPT32.dll
+[0505/193709.053:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdc340000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.053:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+[0505/193709.053:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdad30000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.053:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMM.dll
+[0505/193709.053:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdcce0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.053:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\USERENV.dll
+[0505/193709.053:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdce10000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.053:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\profapi.dll
+[0505/193709.053:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbcfca0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.053:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\DWrite.dll
+[0505/193709.053:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbb65f0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.053:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+[0505/193709.053:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdcdd0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.053:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\kernel.appcore.dll
+[0505/193709.053:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdda40000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.053:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\bcrypt.dll
+[0505/193709.053:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffba9ca0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.053:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dbghelp.dll
+[0505/193709.053:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbc4c40000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.053:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\Secur32.dll
+[0505/193709.053:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbd2c10000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.053:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINHTTP.dll
+[0505/193709.053:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbd3340000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.053:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+[0505/193709.053:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d6a0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.053:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\NSI.dll
+[0505/193709.053:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdad00000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.053:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+[0505/193709.053:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbddad0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.053:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\cfgmgr32.dll
+[0505/193709.053:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbd9780000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.053:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\PROPSYS.dll
+[0505/193709.053:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdfe10000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.053:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\System32\shcore.dll
+[0505/193709.053:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdccb0000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.053:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\SSPICLI.DLL
+[0505/193709.053:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdc800000 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.053:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL
+[0505/193709.233:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea34cfa000 of 1073152 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.237:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea355fd000 of 12288 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.237:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea365fd000 of 12288 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.237:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea36dfb000 of 20480 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.237:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea375fe000 of 8192 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.237:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea37dfd000 of 12288 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.237:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea385fb000 of 20480 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.237:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea38df6000 of 40960 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.238:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea395fd000 of 12288 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.238:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea3adfb000 of 20480 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.238:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea3b5fb000 of 20480 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.238:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea39df4000 of 49152 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.238:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea3a5f5000 of 45056 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.238:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea3bdfd000 of 12288 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.238:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea35df4000 of 49152 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.239:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea3c5fd000 of 12288 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.239:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea3cdfd000 of 12288 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.239:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea34555000 of 852 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.239:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea34556000 of 6024 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.239:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea34558000 of 6024 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.239:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea3455c000 of 6024 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.239:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea3455e000 of 6024 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.239:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea34560000 of 6024 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.239:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea34562000 of 6024 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.239:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea34564000 of 6024 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.239:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea34566000 of 6024 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.239:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea34568000 of 6024 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.239:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea3456e000 of 6024 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.240:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea34570000 of 6024 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.240:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea34574000 of 6024 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.240:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea34576000 of 6024 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.240:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea3457e000 of 6024 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.240:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea34580000 of 6024 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.240:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea34586000 of 6024 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.240:ERROR:process_memory_win.cc(73)] ReadMemory at 0xea34598000 of 6024 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.240:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b0c435810 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.240:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b0c575f20 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.240:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b0c9cf0a0 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.240:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b22c9d564 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.240:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b22c9dc10 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.240:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d710fe0 of 4562 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.240:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d7121c0 of 1012 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.240:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d712808 of 118 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.240:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d712880 of 772 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.290:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d712b86 of 118 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.290:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d712bfe of 100 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.290:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d712c70 of 58 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.323:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d712d70 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.323:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d712f00 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.323:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d7130c0 of 124 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.365:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d7134a0 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.365:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d713630 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.365:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d713680 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.365:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d7137f0 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.365:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d713a90 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.365:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d713c20 of 68 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.365:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d714c10 of 156 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d714cf0 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d714e80 of 152 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d715d30 of 62 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d715d80 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d715f20 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d7165d0 of 60 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d71679a of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d719070 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d719280 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d719670 of 62 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.484:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d7196c0 of 62 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.484:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d7199e0 of 66 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.484:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d719a30 of 60 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.484:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d719a80 of 60 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.484:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d719b70 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.484:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d719bc0 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.484:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d719c60 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.484:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d719d50 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.484:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d71a450 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.484:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d71ac50 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.484:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d71ade0 of 80 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.484:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d71ae90 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.484:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d71b0f0 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.484:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d71b220 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.484:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d71b350 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.484:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d71b480 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.484:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d71b5b0 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.484:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d71b6e0 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.485:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d71b810 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.485:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d71b940 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.485:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d71ba70 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.485:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d71bba0 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.640:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d71bcd0 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.675:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d71dce0 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.675:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d71e260 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.675:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d71f060 of 54 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.675:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d7217a0 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.675:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d721b50 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.675:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d721c00 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.675:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d7241b0 of 76 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.675:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d725100 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.675:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d7251f0 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.741:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d725290 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.741:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d7255b0 of 62 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.741:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d725600 of 62 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.741:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d725650 of 62 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.741:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d7256f0 of 62 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.741:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d725790 of 60 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.741:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d7257e0 of 62 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.741:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d725830 of 62 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.741:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d725880 of 60 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.741:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d725a10 of 62 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.741:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d725ab0 of 62 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.741:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d725c40 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.741:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d725d80 of 60 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.741:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d725e70 of 60 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.741:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d726000 of 66 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.811:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d726050 of 58 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.811:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d726b90 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.853:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d726cc0 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.853:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d726df0 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.853:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d727510 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.853:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d727640 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.853:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d727d60 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.853:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d7280f0 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.853:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d728350 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.853:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d7285b0 of 132 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.853:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d739220 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.853:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d91e0f8 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.853:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d920140 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.853:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d922c08 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.864:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d930aa0 of 712 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.864:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d936350 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.864:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d9b8678 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.864:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5d9b9b48 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.864:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5de549b0 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.864:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5f9c6890 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.864:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b5fad2940 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.864:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b60071aff of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.864:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b602e2f80 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.864:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b61287f58 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b75b46bb0 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x20b955ccef8 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb9a990000 of 384 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb9b075b40 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb9c6f70f2 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb9ddb839c of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffb9f3326b8 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdcf6a719 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdd19b6e0 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdff00000 of 384 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdff9c074 of 672 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdff9c674 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdff9cb44 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbdff9f924 of 608 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbe00210f0 of 512 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbe002c428 of 18 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbe005f4f8 of 40 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.865:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbe005f978 of 48 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193709.866:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffbe00653c0 of 64 bytes failed: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0505/193710.829:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Попытка доступа к процессу, выполняющему процедуру завершения. (0xc000010a)

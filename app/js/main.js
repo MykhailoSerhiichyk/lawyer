@@ -1,12 +1,39 @@
 $(function(){
 
     $('.reviews__slider-inner').slick({
-        infinite: true,
-        slidesToShow: 3,
-        slidesToScroll: 1,
-        prevArrow: '<button type="button" class="slick-prev"><img src="../images/icons/multimedia-option.svg" alt=""></button>',
-        nextArrow: '<button type="button" class="slick-next"><img src="../images/icons/arrowsoutline.svg" alt=""></button>',
-      });
+      infinite: true,
+      slidesToShow: 3,
+      slidesToScroll: 1,
+      prevArrow: '<button type="button" class="slick-prev"><img src="../images/icons/multimedia-option.svg" alt=""></button>',
+      nextArrow: '<button type="button" class="slick-next"><img src="../images/icons/arrowsoutline.svg" alt=""></button>',
+      autoplay: true,
+      autoplaySpeed: 3000,
+      responsive: [
+        {
+          breakpoint: 1141,
+          settings: {
+            arrows: false,
+            dots: true,
+          }
+        },
+        {
+          breakpoint: 961,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 1,
+            dots: true,
+          }
+        },
+        {
+          breakpoint: 661,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            dots: true,
+          }
+        },
+      ]
+    });
 
     $('.partners__slider-inner').slick({
       infinite: true,
@@ -14,6 +41,39 @@ $(function(){
       slidesToScroll: 1,
       prevArrow: '<button type="button" class="slick-prev"><img src="../images/icons/multimedia-option.svg" alt=""></button>',
       nextArrow: '<button type="button" class="slick-next"><img src="../images/icons/arrowsoutline.svg" alt=""></button>',
+      responsive: [
+        {
+          breakpoint: 1141,
+          settings: {
+            arrows: false,
+            dots: true,
+          }
+        },
+        {
+          breakpoint: 961,
+          settings: {
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            dots: true,
+          }
+        },
+        {
+          breakpoint: 681,
+          settings: {
+            slidesToShow: 2,
+            slidesToScroll: 1,
+            dots: true,
+          }
+        },
+        {
+          breakpoint: 471,
+          settings: {
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            dots: true,
+          }
+        },
+      ]
     });
 
     $('.rate-content__tabs .tab, .settings__tabs .tab').on('click', function(event) {
@@ -23,6 +83,10 @@ $(function(){
         $(this).addClass('active');
         $('#'+id).addClass('active-tab').fadeIn();
         return false;
+    });
+
+    $('.header__menu-btn').on('click', function(){
+      $('.header__top-menu ul').slideToggle();
     });
 
 });
