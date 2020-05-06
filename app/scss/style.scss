@@ -532,6 +532,13 @@
         position: absolute;
         top: 40%;
         transform: translateY(-50%);
+        font-size: 0;
+        background-image: url(../images/icons/multimedia-option.svg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: cover;
+        width: 20px;
+        height: 14px;
 
         &.slick-prev {
             left: -90px;
@@ -539,6 +546,7 @@
 
         &.slick-next {
             right: -90px;
+            background-image: url(../images/icons/arrowsoutline.svg);
         }
 
         img {
